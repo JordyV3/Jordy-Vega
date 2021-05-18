@@ -1,0 +1,17 @@
+// $black-purple: #0e0b16;
+// $purple: #562af3;
+$black-blue: #191e25;
+$light-blue: #0e192c;
+$blue-opacity: #1e345081;
+$blue: #abbed8;
+$red: #e09f4bee;
+$red-opacity: #ce232911;
+$white: #f1f1f1f5;
+$gray: #b1b1b1da;
+
+@mixin flex($jc, $ai, $fd) {
+  display: flex;
+  justify-content: $jc;
+  align-items: $ai;
+  flex-direction: $fd;
+}
