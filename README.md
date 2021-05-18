@@ -11,5 +11,3 @@
   NodeJS &nbsp; <img src='https://res.cloudinary.com/dy14mattw/image/upload/v1604299115/nodejs_vrycov.svg' alt='NodeJS Logo' width='90px'/>   
   MongoDB &nbsp; <img src='https://res.cloudinary.com/dy14mattw/image/upload/v1604299115/mongodb_jgfxxa.svg' alt='NodeJS Logo' width='130x'/>  
   Webpack &nbsp; <img src='https://res.cloudinary.com/dy14mattw/image/upload/v1604294634/webpack_c7k6zs.svg' alt='Webpack Logo' width='35px'/>
-
-Web Design technologies 🖍️
