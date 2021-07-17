@@ -1,7 +1,7 @@
 <!-- prettier-ignore -->
 # Welcome to my Portfolio 📝
 
-### You can visit my portfolio on <https://www.jordyvega.com> 🖥️
+### You can visit my portfolio on <https://jordyve3.xyz/> 🖥️
 
 ## Here you can find the techonolgies that I know and the projects I've been worked such as:
 
